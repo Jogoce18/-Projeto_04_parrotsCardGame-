@@ -1,7 +1,7 @@
 # -Projeto_04_parrotsCardGame-
 Game memory
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/80592317/168441631-2ab08fa3-75f7-487e-a8f5-df4a592747db.gif" width="150px"> <img src="https://user-images.githubusercontent.com/80592317/168441631-2ab08fa3-75f7-487e-a8f5-df4a592747db.gif" width="150px"> 
+  <img src="https://user-images.githubusercontent.com/80592317/168441631-2ab08fa3-75f7-487e-a8f5-df4a592747db.gif" width="150px"> <img src="https://user-images.githubusercontent.com/80592317/168441856-d2e48f67-f6ea-45c9-945e-3991b8cd45c8.gif" width="150px"> 
 </p>
  
 <h1 align="center">Parrots Card Game</h1>
